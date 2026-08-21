@@ -29,11 +29,11 @@ It represents my complete DSA learning journey—from understanding fundamentals
 - [⭐] Trees
 - [⭐] Binary Search Tree
 - [⭐] Heap / Priority Queue
-- [ ] Trie
-- [ ] Graphs
+- [⭐] Graphs
+- [⭐] Dynamic Programming
 - [ ] Backtracking
 - [ ] Greedy
-- [ ] Dynamic Programming
+- [ ] Trie
 - [ ] Bit Manipulation
 
 ---
@@ -52,11 +52,11 @@ DSA-Java
 ├── Trees
 ├── BST
 ├── Heap
-├── Trie
 ├── Graph
+├── DynamicProgramming
 ├── Backtracking
 ├── Greedy
-├── DynamicProgramming
+├── Trie
 └── BitManipulation
 ```
 
@@ -102,7 +102,6 @@ For every problem I solve, I focus on:
 ## Queue
 
 - BFS
-- Circular Queue
 - Queue Simulation
 
 ## Trees
@@ -114,6 +113,21 @@ For every problem I solve, I focus on:
 - Tree Traversals
 - Recursive Contract
 
+## Graphs
+
+- BFS
+- DFS
+- Minimum Spanning Tree
+- Krushkal
+- Prim
+- Disjoint Set Union
+- Kahn's Algorithm
+- Dijkstra
+
+## Dynamic Programming
+(Started learning...)
+
+
 (Will keep updating...)
 
 ---
@@ -121,17 +135,15 @@ For every problem I solve, I focus on:
 
 # 📈 Progress
 
-- Trees : In Progress
-- Total Problems Solved : XX
-- Current Focus : Binary Tree BFS
+- Dynamic Programming : In Progress
+- Total Problems Solved : 130
+- Current Focus : 0/1 knapsack
 
 ---
 
 # 📖 Resources
 
 - LeetCode
-- NeetCode
-- Striver A2Z DSA Sheet
 
 ---
 
